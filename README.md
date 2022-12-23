@@ -1,4 +1,4 @@
-# 📌 Esstudos sobre SQL 2
+# 📌 Estudos sobre SQL 2
 Este repositório contêm a continuação de meus estudos sobre modelagem de bancos relacionais.
 Como execício foi criado um databse para uma empresa fictícia vendedora de sucos.
 
