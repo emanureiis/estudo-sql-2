@@ -1,6 +1,8 @@
 /* ----------------------------------------------------------------------------------------------
 	Neste aquivo é possível aprender como inserir dados baseado em uma consulta que
 	estamos fazendo, seja no mesmo banco ou em um banco diferente comos nos exemplos abaixo
+----------------------------------------------------------------------------------------------
+	Lembrando que o processo inserçção pode ser realizado também pelo Form Editor
 ---------------------------------------------------------------------------------------------- */
 
 USE vendas_sucos;
